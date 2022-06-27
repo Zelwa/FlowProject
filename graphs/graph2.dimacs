@@ -1,0 +1,20 @@
+c ligne décrivant le problème (noeuds et arcs)
+p max 7 11
+c noeuds source
+n 1 s
+c neoud arrivé 
+n 7 t
+c lignes dérivant les arcs (du noeud, au noeud, capacité maximale)
+a 1 2 6
+a 1 3 5
+a 2 3 5
+a 2 4 3
+a 3 4 4
+a 4 5 9
+a 5 6 3
+a 5 7 9
+a 6 4 5
+a 6 3 2
+a 6 7 2
+c
+c End of file
